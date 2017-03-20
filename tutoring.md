@@ -27,7 +27,7 @@ The current schedule for Open Tutoring is:
 
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |:------:|:-------:|:---------:|:--------:|:------:|:--------:|:------:|
-|        | 5-7 PM  |           | 5-7 PM   |        | 11 - 2PM |        |
+|        | 5-7 PM  |           | 5-7 PM   |        | 11 - 1PM |        |
 
 (Last updated 2/23/2016 - Check your class Google calendar for temporary schedule changes.)
 
