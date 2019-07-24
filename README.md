@@ -6,6 +6,6 @@ This repository is all about the way we teach! Here you'll find things like our 
   - [Tutoring](tutoring.md)
   - [Ada Rule of Three](rule-of-three.md)
   - [Homework Labels](hw-learning-goal-label-key.md)
-- CS Fundamentals
+- Thursdays At Ada
   - [Classroom](cs-fundamentals-classroom.md)
   - [Internship](cs-fundamentals-internships.md)
