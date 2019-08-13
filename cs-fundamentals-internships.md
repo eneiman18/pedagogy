@@ -3,7 +3,7 @@
 | Week    | Date | Unit
 |---------|---------|------------------
 | Week 00 |  8/8/2019 | Break Week!
-| Week 01 |  8/15/2019 | [Code Reviews](https://docs.google.com/presentation/d/1vZz0JtIspH2N4v59KymKTYHJ5xxOMKOe/edit#slide=id.p1) & [Linked Lists](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/linked_lists.md)
+| Week 01 |  8/15/2019 | [Code Reviews](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/linked_lists.md) & [Linked Lists](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/linked_lists.md) <br />[Code Review Exercises](https://github.com/Ada-C11/code-reviews) && [Exercises for Linked Lists](https://github.com/Ada-C11/linked-list)
 | Week 03 | 8/22/2019 | [Linked Lists](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/linked_lists.md) & [Binary Search Trees](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/Binary%20Search%20Trees.md)
 | Week 04 | 8/29/2019 |  Internships Expectations Panel
 | Week 05 | 9/5/2019 | [Binary Search Trees](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/Binary%20Search%20Trees.md) & [Stacks & Queues](https://github.com/Ada-Developers-Academy/textbook-curriculum/tree/master/04-cs-fundamentals/internship/stacks_and_queues)
@@ -18,6 +18,7 @@
 | Week 14 | 11/7/2019 | Mock Interviews  & Recruiters @ Ada
 | Week 15 | 11/14/2019 | Mock Interviews continued
 | Week 16 | 11/21/2019 | Mock Interviews continued
-| Week 17 | 11/28/2019 | Level Set Offer Expectations with Alums / Dissecting An offer with Blaine
+| Week 17 | 11/28/2019 | Thanksgiving
 | Week 18 | | _Interview Week C12_
-| Week 19 | 12/12/2019 | Fulltime Interview Loops
+| Week 19 | 12/12/2019 | Level Set Offer Expectations with Alums / Dissecting An offer with Blaine
+| Week 20 | 12/19/2019 | Fulltime Interview Loops
