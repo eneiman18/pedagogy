@@ -3,7 +3,7 @@
 | Week    | Date | Unit
 |---------|---------|------------------
 | Week 00 |  8/8/2019 | Break Week!
-| Week 01 |  8/15/2019 | [Code Reviews](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/cm/csfun-code-reviews/04-cs-fundamentals/internship/code-reviews.md) & [Linked Lists](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/linked_lists.md) <br />[Code Review Exercises](https://github.com/Ada-C11/code-reviews) && [Exercises for Linked Lists](https://github.com/Ada-C11/linked-list)
+| Week 01 |  8/15/2019 | [Code Reviews](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/code-reviews.md) & [Linked Lists](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/linked_lists.md) <br />[Code Review Exercises](https://github.com/Ada-C11/code-reviews) && [Exercises for Linked Lists](https://github.com/Ada-C11/linked-list)
 | Week 03 | 8/22/2019 | [Linked Lists](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/linked_lists.md) & [Binary Search Trees](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/Binary%20Search%20Trees.md)
 | Week 04 | 8/29/2019 |  Internships Expectations Panel
 | Week 05 | 9/5/2019 | [Binary Search Trees](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/Binary%20Search%20Trees.md) & [Stacks & Queues](https://github.com/Ada-Developers-Academy/textbook-curriculum/tree/master/04-cs-fundamentals/internship/stacks_and_queues)
