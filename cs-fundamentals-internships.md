@@ -17,7 +17,7 @@
 | Week 13 | 10/31/2019 | Technical Whiteboarding, What to expect, deep dive with Steve
 | Week 14 | 11/7/2019 | Mock Interviews  & Recruiters @ Ada
 | Week 15 | 11/14/2019 | Mock Interviews continued
-| Week 16 | 11/21/2019 | Mock Interviews continued
+| Week 16 | 11/21/2019 | Mock Interviews Placeholder If needed: TBD 
 | Week 17 | 11/28/2019 | Thanksgiving
 | Week 18 | | _Interview Week C12_
 | Week 19 | 12/12/2019 | Level Set Offer Expectations with Alums / Dissecting An offer with Blaine
