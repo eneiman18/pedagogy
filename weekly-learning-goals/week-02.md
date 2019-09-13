@@ -13,7 +13,7 @@
   - Import code via the `require` statement
 
 - **Git**
-  - Use `Git init` to create a new repository
+  - Use `git init` to create a new repository
   - Use Git to track changes by adding commits
   - Use Git to push code to Github and pull content down to a localhost
   - Use git to submit work with a pull request
