@@ -9,4 +9,4 @@ This repository is all about the way we teach! Here you'll find things like our 
 - Thursdays At Ada
   - [Classroom](cs-fundamentals-classroom.md)
   - [Internship](cs-fundamentals-internships.md)
-  - [Graduate Internships](cs-fundametnals-graduate-internships.md)
+  - [Graduate Internships](cs-fundamentals-graduate-internships.md)
