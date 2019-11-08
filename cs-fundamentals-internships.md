@@ -16,7 +16,7 @@
 | Week 12 | 10/24/2019 | Recruiting Tool Box Job prep 1:00pm - 5:00pm 
 | Week 13 | 10/31/2019 | Technical Whiteboarding, What to expect, deep dive with Steve 1:00pm 4:30pm 
 | Week 14 | 11/7/2019 | Mock Interviews  & Recruiters @ Ada 1:00pm - 5:00pm 
-| Week 15 | 11/14/2019 | Mock Interviews continued 2:30pm - 4:30pm Recruiter/Hiring Manager Panel 
+| Week 15 | 11/14/2019 | Mock Interviews cont.. 2:00-2:30 Touchbase with Alexandra 2:30pm - 4:30pm Recruiter/Hiring Manager Panel 
 | Week 16 | 11/21/2019 | Mock Interviews Placeholder If needed: TBD 
 | Week 17 | 11/28/2019 | Thanksgiving
 | Week 18 | | _Interview Week C12_ Office Closed- 
