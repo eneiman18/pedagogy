@@ -24,9 +24,6 @@
 - Get JavaScript running in the browser
 - Define the DOM
 - Understand the basics of DOM manipulation
-- Set up your web page to include jQuery
-- See how jQuery syntax is different than plain JS
-- Utilize jQuery selectors to manipulate the DOM
 
 ## Comprehension Questions
 
@@ -35,5 +32,3 @@
 - What is the syntax for using `forEach` with an anonymous arrow function?
 - What is the syntax for using `map` with an anonymouse arrow function?
 - What is the syntax for writing a unit test in Jest?
-- What is jQuery?
-- What is the syntax for using jQuery to select an element? What is the syntax for using jQuery to change a property on an element?
