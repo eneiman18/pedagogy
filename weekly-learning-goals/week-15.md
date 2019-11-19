@@ -20,11 +20,6 @@
 - Know that our preference will be to use functional expressions compared to function declarations
 - Know that we will always use `const` for our functions
 
-## JavaScript in the Browser
-- Get JavaScript running in the browser
-- Define the DOM
-- Understand the basics of DOM manipulation
-
 ## Comprehension Questions
 
 - What is the syntax for making a variable that can be re-assigned? What is the syntax for making a variable that cannot be re-assigned?
