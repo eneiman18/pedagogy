@@ -1,16 +1,26 @@
 # Week 16
 
-## JavaScript in the Browser: jQuery events and AJAX
-1.  Become familiar with jQuery event-handling syntax
-1.  Use event delegation to streamline complex event logic
-1.  Use closures to wrap function state
-1.  Understand hoisting and why it matters in JavaScript
-1.  Request data from a sever to render client-side using JavaScript
-1.  Render data from server without reloading a page
-1.  Use axios to make AJAX requests
+## Asynchronous Programming
+1. Use axios to make AJAX requests
 1. Use GET and POST methods with axios
 
+## JavaScript in the Browser
+1. Become familiar with the Web API's definition of event-handling
+1. Become familiar with the Web API's definition of the DOM
+1. Consider and witness JavaScript running in the browser
+1. Understand the basics of event-handling
+1. Understand the basics of DOM manipulation
+
 ## Intro to React
-1. Explain what React is and why it is useful
-1. Identify likely parts of a web page to turn into React components
-1. Create React components and pass data into them using props
+- Explain what React is and why it is useful
+- Identify likely parts of a web page to turn into React components
+- Create React components and pass data into them using props
+- Continue identifying portions of web sites as React components
+- Continue creating new React applications using `create-react-app`
+- Manage file structure using `export` and `import`
+- Build functional stateless React components
+- See the patterns in React for using CSS
+- Use `PropTypes` to verify data in React
+- Build classical stateful React components
+- Use state and props together in React components to manage data
+- Use events in React components to create dynamic applications
