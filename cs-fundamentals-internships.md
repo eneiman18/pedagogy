@@ -20,5 +20,5 @@
 | Week 16 | 11/21/2019 | Mock Interviews Placeholder 2:00-3:00- SALARY AND NEGOTIATION LECTURE WITH ALEXANDRA
 | Week 17 | 11/28/2019 | Thanksgiving
 | Week 18 | | _Interview Week C12_ Office Closed- 
-| Week 19 | 12/12/2019 | Recruiting Toolbox- Sockets
+| Week 19 | 12/12/2019 | Dissecting the offer with Blaine Mercado- 1:00-2:30- Both classes please
 | Week 20 | 12/19/2019 | Fulltime Interview Loops
