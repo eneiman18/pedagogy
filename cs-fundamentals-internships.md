@@ -21,4 +21,4 @@
 | Week 17 | 11/28/2019 | Thanksgiving
 | Week 18 | | _Interview Week C12_ Office Closed- 
 | Week 19 | 12/12/2019 | Dissecting the offer with Blaine Mercado- 1:00-2:30- Both classes please
-| Week 20 | 12/19/2019 | Fulltime Interview Loops
+| Week 20 | 12/19/2019 | "Stocks-n-stuff" w/ Andrew G. 3:00 in the auditorium
