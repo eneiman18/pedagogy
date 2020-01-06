@@ -100,9 +100,6 @@ Students should be able to:
 * Complete a product lifecycle from conception to delivery
 * Utilize agile practices to assist in project completion
 
-## Week-by-Week
-We run our cohorts twice a year starting in February and August. Below is our generic week-by-week schedule. To see each cohort broken down week-by-week with their dates, see the [Summer/Fall Schedule](syllabus-summer-fall.md) and the [Winter/Spring Schedule](syllabus-winter-spring.md).
-
 <!-- BEGIN_SCHEDULE -->
 
 | Week    | Unit             | Topics
