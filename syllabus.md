@@ -69,7 +69,7 @@ Students should be able to:
 
 ### JavaScript
 
-As the language of the web, an understanding of JavaScript is essential for any prospective web developer. In addition to core language features, we'll cover some of the excellent libraries that enable modern web apps such as jQuery and React.
+As the language of the web, an understanding of JavaScript is essential for any prospective web developer. In addition to core language features, we'll cover some of the excellent libraries that enable modern web apps such as React.
 
 Students should be able to:
 
