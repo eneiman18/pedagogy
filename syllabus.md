@@ -69,7 +69,7 @@ Students should be able to:
 
 ### JavaScript
 
-As the language of the web, an understanding of JavaScript is essential for any prospective web developer. In addition to core language features, we'll cover some of the excellent libraries that enable modern web apps such as jQuery and React.
+As the language of the web, an understanding of JavaScript is essential for any prospective web developer. In addition to core language features, we'll cover some of the excellent libraries that enable modern web apps such as React.
 
 Students should be able to:
 
@@ -99,9 +99,6 @@ Students should be able to:
 * Learn and implement new technologies
 * Complete a product lifecycle from conception to delivery
 * Utilize agile practices to assist in project completion
-
-## Week-by-Week
-We run our cohorts twice a year starting in February and August. Below is our generic week-by-week schedule. To see each cohort broken down week-by-week with their dates, see the [Summer/Fall Schedule](syllabus-summer-fall.md) and the [Winter/Spring Schedule](syllabus-winter-spring.md).
 
 <!-- BEGIN_SCHEDULE -->
 
