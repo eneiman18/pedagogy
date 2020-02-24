@@ -7,7 +7,7 @@
 | Week 03 | 8/22/2019 | [Binary & Memory](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Binary.md)
 | Week 04 | 8/29/2019 | Caucus/Workshop
 | Week 05 | 9/5/2019 | [Arrays](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Arrays.md) and [Algorithmic Efficiency](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Efficiency%20of%20algorithms.md)
-| Week 06 | 9/12/2019 | [Arrays](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Arrays.md) continued, [Introduction to Data Structures](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Introduction%20to%20Data%20Structures.md)
+| Week 06 | 9/12/2019 | [Arrays](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Arrays.md) continued, [Introduction to Data Structures](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/intro-to-data-structures.md)
 | Week 07 | 9/19/2019 | [Understanding function calls](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Understanding%20function%20calls.md)
 | Week 08 | | _BREAK_
 | Week 09 | 10/3/2019 | [Solving problems using Hash tables](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/hash-tables.md)
