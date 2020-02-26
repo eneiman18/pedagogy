@@ -19,6 +19,6 @@
 | Week 15 | 05/14/2020 | [Linked Lists Part 1](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Introduction%20to%20Linked%20Lists.md)
 | Week 16 | 05/21/2020 | [State Machines](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Finite-State-Machines.md)
 | Week 17 | 05/28/2020 | [Interview preparation](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Whiteboarding-Tips.md)
-| Week 18 | | 06/04/2020 | _INTERVIEWS_
+| Week 18 | 06/04/2020 | _INTERVIEWS_
 | Week 19 | 06/11/2020 | Caucus/Workshop
 | Week 20 | 06/18/2020 | [Introduction to Software Design](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Software%20Design.md)
