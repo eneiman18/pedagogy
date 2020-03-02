@@ -11,16 +11,16 @@
 | Week 07 | 3/12/2020 | [Heaps](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/heaps.md) <br /> [Heaps Exercise](https://github.com/ada-c12/heaps) <br />[Reading HW on Graphs](https://medium.com/basecs/from-theory-to-practice-representing-graphs-cfd782c5be38)
 | Week 08 | 3/19/2020 | [Algorithms](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/algorithms.md) & Workshop with Sarah!
 | Week 09 | 3/26/2020 | _BREAK_
-| Week 10 | 4/2/2020 | CS Fun [Graphs](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/graphs.md) & Get with Manager about mid-point review & **TBD Event**
-| Week 11 | 4/9/2020 | [Graphs - Dijkstra's Algorithm](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/graphs.md)  
-| Week 12 | 4/16/2020 | TBD
-| Week 13 | 4/23/2020 | TBD
-| Week 14 | 4/30/2020 | TBD
-| Week 15 | 5/7/2020 | TBD
-| Week 16 | 5/14/2020 | TBD
+| Week 10 | 4/2/2020 | CS Fun [Graphs](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/graphs.md) & Get with Manager about mid-point review & **Resume Talk (4:00pm-5:00pm)**
+| Week 11 | 4/9/2020 | [Graphs - Dijkstra's Algorithm](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/graphs.md)  & **Recruiters reviewing resumes (4:00pm-5:00pm)**
+| Week 12 | 4/16/2020 | Recruiters reviewing resumes (4:00pm-5:00pm)
+| Week 13 | 4/23/2020 | Recruiting Toolbox (1pm-5pm) – Branches / Recruiters reviewing resumes (4:00pm-5:00pm)
+| Week 14 | 4/30/2020 | Recruiting Toolbox (1pm-5pm) – Leaves / Recruiters reviewing resumes (4:00pm-5:00pm)
+| Week 15 | 5/7/2020 | Blaine Mercado – Dissecting the Offer (1-2:30pm)
+| Week 16 | 5/14/2020 | Mock Interviews continued 
 | Week 17 | 5/21/2020 | BREAK!
-| Week 18 | 5/28/2020 | _Interview Week C13_ Office Closed
-| Week 19 | 6/11/2020 | Week Reserved for fulltime interview loops
-| Week 20 | 6/18/2020 | Break
-| Week 21 | 6/25/2020 | Break
+| Week 18 | 5/28/2020 | Salary negotiation (AH), HR panel (2:30-5:00)
+| Week 19 | 6/04/2020 | _Interview Week C13_ Office Closed
+| Week 20 | 6/11/2020 | Break
+| Week 21 | 6/18/2020 | Break
 
