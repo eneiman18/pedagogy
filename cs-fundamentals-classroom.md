@@ -11,7 +11,7 @@
 | Week 07 | 03/19/2020 | [Solving problems using Hash tables](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/hash-tables.md)
 | Week 08 | | _BREAK_
 | Week 09 | 04/02/2020 | [Understanding function calls](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/function-calls.md)
-| Week 10 | 04/09/2020 | [Introduction to Recursion](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Introduction%20to%20Recursion.md)
+| Week 10 | 04/09/2020 | [Introduction to Recursion](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/recursion.md)
 | Week 11 | 04/16/2020 | Caucus/Workshop
 | Week 12 | 04/23/2020 | [Whiteboarding tips](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Whiteboarding-Tips.md)
 | Week 13 | 04/30/2020 | [Instructors get interviewed, White boarding practice](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/classroom/Whiteboarding-Tips.md)
