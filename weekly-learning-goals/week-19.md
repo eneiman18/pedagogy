@@ -5,8 +5,7 @@
   - Manipulate state data based on form submissions
   - Differentiate between container components and presentational components
   - Introduce WebPack
-  - Learn about the component lifecycle
-  - Use component lifecycle methods to execute functionality at the specific times within a component's lifecycle
+  - Learn about hooks for state management
   - Introduce the spread operator and rest parameters.
 
 - Testing
