@@ -89,6 +89,8 @@ Students should be able to:
 * Understand and trace recursive functions
 * Analyze the efficiency of basic programs, and discuss potential trade-offs and optimizations
 
+Computer Science Fundamentals is taught on Thursday throughout the [classroom](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/cs-fundamentals-classroom.md) and [internship](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/cs-fundamentals-internships.md) periods.  You can click the previous links to see a through description of the concepts taught. 
+
 ### Capstone Project
 
 As a culmination of each student's classroom learning experience, they create a capstone project to showcase what they have learned thus far in the program.
