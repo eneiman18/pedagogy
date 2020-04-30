@@ -11,8 +11,8 @@
 | Week 07 | 3/12/2020 | [Heaps](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/heaps.md) <br /> [Heaps Exercise](https://github.com/ada-c12/heaps) <br />[Reading HW on Graphs](https://medium.com/basecs/from-theory-to-practice-representing-graphs-cfd782c5be38)
 | Week 08 | 3/19/2020 | [Algorithms](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/algorithms.md) & Workshop with Sarah!  (Workshop cancelled for now)
 | Week 09 | 3/26/2020 | _BREAK_
-| Week 10 | 4/2/2020 | CS Fun [Graphs](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/graphs.md) & Get with Manager about mid-point review & **Resume Talk (4:00pm-5:00pm)**
-| Week 11 | 4/9/2020 | [Graphs - Dijkstra's Algorithm](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/graphs.md)  & **Recruiters reviewing resumes (4:00pm-5:00pm)**
+| Week 10 | 4/2/2020 | CS Fun [Graphs](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/graphs.md) & Get with Manager about mid-point review & Resume Talk (4:00pm-5:00pm)
+| Week 11 | 4/9/2020 | [Graphs - Dijkstra's Algorithm](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/04-cs-fundamentals/internship/graphs.md)  & Recruiters reviewing resumes (4:00pm-5:00pm)
 | Week 12 | 4/16/2020 | Mock Interviews & Recruiters reviewing resumes (4:00pm-5:00pm)
 | Week 13 | 4/23/2020 | Mock Interviews (1 - 4pm)  Recruiters reviewing resumes (1-2, 4-5pm)
 | Week 14 | 4/30/2020 |  Mock Interviews (1 - 4pm) Recruiters reviewing resumes (1-2, 4-5pm)
